@@ -10,4 +10,4 @@ My playground for Cellular Automata
 - Rock, Scissor Paper, 3 Balanced Types
 
 
-Also check out my Pokemon Generation 1 Type Simulation: ![here](https://github.com/kennycason/cellular-automata-pokemon-types)
+Also check out my Pokemon Generation 1 Type Simulation: [here](https://github.com/kennycason/cellular-automata-pokemon-types)
